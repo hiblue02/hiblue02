@@ -1,4 +1,4 @@
-## 교육 수강
+## 교육 
 ### TDD with 클린코드,NextStep
 - 기간 : 2022년 10월 ~ 2022년 12월
 -  과제 :
@@ -19,3 +19,6 @@
   - https://github.com/hiblue02/ddd-strategic-design/tree/step3
   - https://github.com/hiblue02/ddd-tactical-design/tree/step3
 ## 프로젝트
+### 플러터 시작하기
+- 기간 : 2024년 1월 ~ 진행중
+- 프로젝트 : https://github.com/users/hiblue02/projects/1
