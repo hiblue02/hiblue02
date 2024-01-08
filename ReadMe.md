@@ -22,3 +22,7 @@
 ### 플러터 시작하기
 - 기간 : 2024년 1월 ~ 진행중
 - 프로젝트 : https://github.com/users/hiblue02/projects/1
+## 북스터디
+### Real MySQL 8.0, 백은빈/이성욱, 위키북스
+- 기간 : 2024년 1월 ~ 진행중
+- 정리자료 : https://github.com/hiblue02/book_real_mysql  
