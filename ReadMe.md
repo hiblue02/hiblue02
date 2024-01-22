@@ -18,6 +18,9 @@
   - https://github.com/hiblue02/ddd-legacy/tree/step3
   - https://github.com/hiblue02/ddd-strategic-design/tree/step3
   - https://github.com/hiblue02/ddd-tactical-design/tree/step3
+### 간편결제 MSA, 패스트캠퍼스
+  - 기간 : 2024년 1월 ~ 진행중
+  - https://github.com/hiblue02/fastcampus_msa
 ## 프로젝트
 ### 플러터 시작하기
 - 기간 : 2024년 1월 ~ 진행중
