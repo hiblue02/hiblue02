@@ -29,3 +29,6 @@
 ### Real MySQL 8.0, 백은빈/이성욱, 위키북스
 - 기간 : 2024년 1월 ~ 진행중
 - 정리자료 : https://github.com/hiblue02/book_real_mysql  
+### Mockito
+- 기간 : 2024년 2월 ~ 진행중
+- 정리자료 : https://github.com/hiblue02/book_mockito
