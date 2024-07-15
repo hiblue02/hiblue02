@@ -32,6 +32,6 @@
 ### Junit
 - 기간 : 2024년 3월 ~ 6월
 - 정리자료 : https://github.com/hiblue02/book/tree/main/junit5
-### On Kotlin | Baeldung 
+### Kotlin In Action
 - 기간 : 2024년 7월 ~
 - 정리자료 : https://github.com/hiblue02/book/tree/main/kotlin/kotlin-in-action
