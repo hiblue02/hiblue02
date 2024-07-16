@@ -26,11 +26,14 @@
 - 기간: 2023년 7월 ~ 8월
 - https://github.com/next-step/atdd-subway-map/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
 - https://github.com/next-step/atdd-subway-path/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+- https://github.com/next-step/atdd-subway-fare/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+- https://github.com/next-step/atdd-subway-favorite/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
 ### ATDD with 클린코드 8기, NextStep 리뷰어 
 - 기간: 2023년 2월 ~ 3월
 - https://github.com/next-step/atdd-subway-map/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
 - https://github.com/next-step/atdd-subway-path/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
-- 
+- https://github.com/next-step/atdd-subway-fare/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+- https://github.com/next-step/atdd-subway-favorite/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
 ## 북스터디
 ### Real MySQL 8.0, 백은빈/이성욱, 위키북스
 - 기간 : 2024년 1월 ~ 6월
