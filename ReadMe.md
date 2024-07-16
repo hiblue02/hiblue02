@@ -7,7 +7,7 @@
    - https://github.com/hiblue02/java-ladder/tree/step04
    - https://github.com/hiblue02/java-bowling/tree/step04
 ### ATDD with 클린코드, NextStep
-- 기간 : 2023년 3월 ~ 2023년 6월
+- 기간 : 2023년 3월 ~ 2023년 4월
 - 과제 : 
   - https://github.com/hiblue02/atdd-subway-map/tree/step03
   - https://github.com/hiblue02/atdd-subway-path/tree/step03
@@ -21,7 +21,16 @@
 ### 간편결제 MSA, 패스트캠퍼스
   - 기간 : 2024년 1월 ~ 진행중
   - https://github.com/hiblue02/fastcampus_msa
-## 프로젝트
+## 활동
+### ATDD with 클린코드 7기, NextStep 리뷰어 
+- 기간: 2023년 7월 ~ 8월
+- https://github.com/next-step/atdd-subway-map/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+- https://github.com/next-step/atdd-subway-path/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+### ATDD with 클린코드 8기, NextStep 리뷰어 
+- 기간: 2023년 2월 ~ 3월
+- https://github.com/next-step/atdd-subway-map/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+- https://github.com/next-step/atdd-subway-path/pulls?q=is%3Apr+reviewed-by%3Ahiblue02+
+- 
 ## 북스터디
 ### Real MySQL 8.0, 백은빈/이성욱, 위키북스
 - 기간 : 2024년 1월 ~ 6월
