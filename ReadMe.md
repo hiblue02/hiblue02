@@ -1,3 +1,5 @@
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiblue02&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiblue02)](https://github.com/anuraghazra/github-readme-stats)
 ## 교육 
 ### TDD with 클린코드,NextStep
 - 기간 : 2022년 10월 ~ 2022년 12월
