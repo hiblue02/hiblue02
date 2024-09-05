@@ -9,7 +9,7 @@
 ## 프로젝트
 ### 1일 1개념 공부하기 시즌1
 - 기간 : 2024년 9월 1일 ~ 2024년 9월 30일 
-- https://github.com/hiblue02/concept-learning-daily
+- https://github.com/hiblue02/daily-concept-learning
 ## 교육 
 ### TDD with 클린코드,NextStep
 - 기간 : 2022년 10월 ~ 2022년 12월
