@@ -19,7 +19,7 @@
    - https://github.com/hiblue02/java-ladder/tree/step04
    - https://github.com/hiblue02/java-bowling/tree/step04
 ### ATDD with 클린코드, NextStep
-- 기간 : 2023년 3월 ~ 2023년 4월
+- 기간 : 2024년 3월 ~ 2024년 4월
 - 과제 : 
   - https://github.com/hiblue02/atdd-subway-map/tree/step03
   - https://github.com/hiblue02/atdd-subway-path/tree/step03
